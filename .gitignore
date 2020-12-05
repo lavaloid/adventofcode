@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Rando MacOS stuff
+*/.DS_Store
+.DS_Store
