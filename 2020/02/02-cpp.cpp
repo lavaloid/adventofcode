@@ -4,7 +4,7 @@
 using namespace std;
 int main() {
     ifstream f;
-    f.open("02.txt",ifstream::in);
+    f.open("input.txt",ifstream::in);
     int result = 0;
     
     while (f.peek() != EOF) {

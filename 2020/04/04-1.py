@@ -3,7 +3,7 @@ import time
 start_time = int(round(time.time() * 1000))
 
 # Input nonsense
-f = open("04.txt", "r")
+f = open("input.txt", "r")
 
 import re
 input_str = re.split('\n| ', f.read())
